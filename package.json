@@ -1,0 +1,24 @@
+{
+  "name": "gilded-rose-typescript",
+  "version": "1.0.0",
+  "description": "Gilded rose kata re-done in typescript, based on the public repo of Guy Royse.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikprzekop/gilded-rose-typescript.git"
+  },
+  "keywords": [
+    "refactoring",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Erik Przekop <erik@erikprzekop.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikprzekop/gilded-rose-typescript/issues"
+  },
+  "homepage": "https://github.com/erikprzekop/gilded-rose-typescript#readme"
+}
