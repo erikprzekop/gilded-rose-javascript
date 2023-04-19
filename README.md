@@ -1,5 +1,12 @@
-**This is a work in progress.  It is based on a 2014 repo, so needs some updates to work with Typescript and more up-to-date testing frameworks.  It will be ready for our session in mid-April!**
+## Legacy Rescue Workflow
+This workflow is designed to support changing legacy code to add a new feature.  
+1. Create a set of characterization tests
+2. Do safe (IDE-automated, preferrably) refactorings
+3. Add additional test cases as you identify them
+4. Once the codebase is understandable enough to do so...
+5. Test drive your change
 
+## Problem Statement
 Hi and welcome to team Gilded Rose.
 
 As you know, we are a small inn with a prime location in a prominent city run by a friendly innkeeper named Allison.  We also buy and sell only the finest goods. Unfortunately, our goods are constantly degrading in quality as they approach their sell by date.
