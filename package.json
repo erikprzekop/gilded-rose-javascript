@@ -1,0 +1,29 @@
+{
+  "name": "gilded-rose-javascript",
+  "version": "1.1.0",
+  "description": "Gilded Rose refactoring exercise, forked from Guy Royce and Amber Convilles version and updated to use Jest.",
+  "main": "gilded_rose.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikprzekop/gilded-rose-javascript.git"
+  },
+  "keywords": [
+    "refactoring",
+    "gilded",
+    "rose",
+    "javascript"
+  ],
+  "author": "Erik Przekop <erik@erikprzekop.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/erikprzekop/gilded-rose-javascript/issues"
+  },
+  "homepage": "https://github.com/erikprzekop/gilded-rose-javascript#readme",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "jest": "^29.5.0"
+  }
+}
