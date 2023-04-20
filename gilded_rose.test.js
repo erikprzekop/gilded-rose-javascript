@@ -21,7 +21,6 @@ describe("Gilded Rose - update quality", function () {
     it("should not throw an error with an empty array", function () {
         var items = [];
         // items.push(new Item('+5 Dexterity Vest', 10, 20));
-
         update_quality(items);
     });
 });
